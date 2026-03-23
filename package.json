@@ -1,0 +1,16 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "description": "Lab 8",
+  "license": "ISC",
+  "author": "Bikramjit Singh Gill",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+   "sass-build": "sass --no-source-map scss:css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "sass": "^1.98.0"
+  }
+}

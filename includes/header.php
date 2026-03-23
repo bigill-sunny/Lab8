@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 8</title>
+    <link rel="stylesheet" href="/Lab8/css/bootstrap.css">
+    <link rel="stylesheet" href="/Lab8/css/style.css">
+</head>
+<body>
